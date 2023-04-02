@@ -62,7 +62,7 @@ img {
     font-size: 26px;
     text-decoration: none;
     color: var(--backlight-color);
-    line-height: 1.2;
+    line-height: 1.173;
 }
 
 .logo-black {
@@ -83,7 +83,7 @@ img {
     font-weight: 500;
     text-decoration: none;
     color: var(--primary-text-color);
-    line-height: 1.2;
+    line-height: 1.172;
     padding-right: 46px;
 }
 
@@ -102,7 +102,7 @@ img {
     text-decoration: none;
     font-size: 14px;
     font-weight: 500;
-    line-height: 1.2;
+    line-height: 1.172;
     padding-left: 50px;
 }
 
@@ -122,24 +122,25 @@ img {
     font-family: "Roboto", sans-serif;
     font-weight: 900;
     font-size: 44px;
-    line-height: 1.4;
+    line-height: 1.3636;
     color: var(--color-white);
     text-align: center;
     margin-left: 200px;
     margin-right: 200px;
+    margin-bottom: 40px;
 }
 
 .order-button {
     display: block;
     margin: 0 auto;
-    margin-top: 30px;
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 16px;
-    line-height: 1.9;
-    min-width: auto;
-    max-width: 100%;
-    padding: 10px 40px;
+    line-height: 1.877;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 42px;
+    padding-right: 41px;
     border-radius: 4px;
     cursor: pointer;
     border-style: none;
